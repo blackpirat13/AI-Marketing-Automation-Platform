@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "affiliate": "Affiliate",
+    "login": "Log in",
+    "signup": "Sign up"
+  },
+  "hero": {
+    "title": "Automate your",
+    "subtitle": "marketing with AI",
+    "description": "Leverage artificial intelligence to analyze user data and send personalized messages across social media, email, and mobile channels.",
+    "cta": {
+      "start": "Get started",
+      "learn": "Learn more"
+    }
+  },
+  "pricing": {
+    "title": "Simple, transparent pricing",
+    "subtitle": "Choose the plan that best fits your needs",
+    "monthly": "/month",
+    "getStarted": "Get started",
+    "cryptoAccepted": "We accept cryptocurrency payments",
+    "paymentMethods": "Payment Methods",
+    "crypto": {
+      "title": "Cryptocurrency",
+      "description": "Pay with your preferred cryptocurrency",
+      "supported": "Supported cryptocurrencies:",
+      "eth": "Ethereum (ETH)",
+      "btc": "Bitcoin (BTC)",
+      "usdt": "Tether (USDT)"
+    }
+  }
+}
